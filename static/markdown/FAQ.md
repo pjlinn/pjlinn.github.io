@@ -29,7 +29,7 @@ This content is refreshed as new features and functions are introduced, or exist
 
 ---
 
-Welcome to the PJL Software Online Fitness Journal FAQ. It was designed to answer questions for prospetive users evaluating this application and existing users looking for more information. If there is a question that's missing, feel free to reach out to us directly using the feedback button on the [application]() and we will get back to you as soon as possible.
+Welcome to the PJL Software Online Fitness Journal FAQ. It was designed to answer questions for prospetive users evaluating this application and existing users looking for more information. If there is a question that's missing, feel free to reach out to us directly using the feedback button on the [application](https://fitness.pjlindustries.com) and we will get back to you as soon as possible.
 
 ## <a id="useful" name="useful"></a>Would I find the PJL Online Fitness Journal useful?
 
@@ -52,7 +52,7 @@ But even if you don't fit into one of these categories, chances are that if you'
 
 ---
 
-To request an account, go to the [PJL Online Fitness Journal Website]() and click the 'Request an Account' button in the bottom-right corner of the screen. Fill in the email you'd like associated with your account and that you would like to be a beta tester. We will reach out to you via the email you provided when we have an account set up for you.
+To request an account, go to the [PJL Online Fitness Journal Website](https://fitness.pjlindustries.com) and click the 'Request an Account' button in the bottom-right corner of the screen. Fill in the email you'd like associated with your account and that you would like to be a beta tester. We will reach out to you via the email you provided when we have an account set up for you.
 
 Please note, **we need active users and feedback**! If you don't use the application _and_ don't tell us why, your account will be disabled to make room for others.
 
@@ -120,13 +120,13 @@ The PJL online fitness journal was built from the ground up to specifically addr
 
 ---
 
-TBD
+[Check out our user guide](https://pjlinn.github.io/#/pjl-software/user-guide)
 
 ## <a id="feedback" name="feedback"></a>How do I get in touch to provide feedback?
 
 ---
 
-There is an omnipresent feedback button on the [PJL Online Fitness Journal Website]() that acts as a direct line to the PJL Software team. It can be used at any time to get in touch with us to ask questions or provide feedback.
+There is an omnipresent feedback button on the [PJL Online Fitness Journal Website](https://fitness.pjlindustries.com) that acts as a direct line to the PJL Software team. It can be used at any time to get in touch with us to ask questions or provide feedback.
 
 The feedback form consists of three fields:
 
