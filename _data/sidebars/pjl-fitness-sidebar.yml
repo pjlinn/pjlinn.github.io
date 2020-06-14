@@ -1,0 +1,67 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: PJL Fitness
+    version: 0.0.1 (beta)
+    folders:
+      - title:
+        output: pdf
+        type: frontmatter
+        folderitems:
+          - title:
+            url: /titlepage.html
+            output: pdf
+            type: frontmatter
+          - title:
+            url: /tocpage.html
+            output: pdf
+            type: frontmatter
+
+      - title: Getting Started
+        output: web, pdf
+        folderitems:
+          - title: Introduction
+            url: /pjl-fitness-landing-page.html
+            output: web
+          - title: About PJL Fitness
+            url: /about-pjl-fitness.html
+            output: web
+          - title: Creating An Account
+            url: /pjl-fitness-create-an-account.html
+            output: web
+
+      - title: Workouts
+        output: web, pdf
+        folderitems:
+          - title: Workouts
+            url: /pjl-fitness-workouts.html
+            output: web, pdf
+
+      - title: Metrics
+        output: web, pdf
+        folderitems:
+          - title: Metrics
+            url: /pjl-fitness-metrics.html
+            output: web, pdf
+
+      - title: Snapshots
+        output: web, pdf
+        folderitems:
+          - title: Snapshots
+            url: /pjl-fitness-snapshots.html
+            output: web, pdf
+
+      - title: FAQ
+        output: web, pdf
+        folderitems:
+          - title: FAQ
+            url: /pjl-fitness-closed-beta-release-notes.html
+            output: web, pdf
+
+      - title: Release Notes
+        output: web, pdf
+        folderitems:
+          - title: Closed Beta
+            url: /pjl-fitness-closed-beta-release-notes.html
+            output: web, pdf
