@@ -19,6 +19,8 @@ An interval is a special type of workout component specific to the [‘interval�
 
 ### Work Add Interval Form Properties
 
+![Image of Add Interval Form](images/pjl-fitness-add-interval-form-work.png)
+
 - **AMRAP**: A checkbox indicating whether or not the interval should be considered an AMRAP\*
   - This is a mandatory field and will be set to false (unchecked) by default.
   - \*AMRAP refers to As Many Reps As Possible and indicates whether or not the work interval should be repeated until the interval time expires.
@@ -27,6 +29,8 @@ An interval is a special type of workout component specific to the [‘interval�
   - Click [here](pjl-fitness-add-movement-form) for more information about the Add Movement Form
 
 ### Rest Add Interval Form Properties
+
+![Image of Add Interval Form](images/pjl-fitness-add-interval-form-rest.png)
 
 A rest interval has no additional properties. However please note that if ‘Rest’ is selected, any movements associated with the previous ‘Work’ interval will be removed and this action cannot be undone.
 
