@@ -22,12 +22,12 @@ The Add Movement Form is a single form capable of capturing the majority of all 
   - This value is blank by default and if left blank, a value of zero is assumed.
 - **Volume Unit**: A predefined set of options that represent the unit of measure for the volume input.
   - This is a mandatory field, can only be one value, and is set by default.
-  - More information on the list of volume units and example uses can be found here.
+  - More information on the list of volume units and example uses can be found [here](pjl-fitness-add-movement-form.html#volume-units).
 - **Weight**: A positive integer corresponding to the weight associated with the movement.
   This value is blank by default and if left blank, a value of zero is assumed.
 - **Weight Unit**: A predefined set of weight units that represent the unit of measure for the volume input.
   - This is a mandatory field, can only have one value, and is set by default. For weights equal to zero, the appropriate weight unit is ‘NA’.
-  - More information on the list of weight units and example uses can be found here.
+  - More information on the list of weight units and example uses can be found [here](pjl-fitness-add-movement-form.html#weight-units).
 - **Group with Next Movement**: A checkbox indicating whether or not this movement should be grouped with the movement immediately following. A user would group a movement with another to create a ‘compound’ or ‘complex’ movement, or to facilitate the creation of multiple movements at once (see ‘Movement Grouping’ in the feature section).
   - This is a mandatory field, and is false (unchecked) by default.
 
@@ -97,5 +97,29 @@ For example, a user could convert a weight following the steps below:
 Please note that it’s possible that the weight unit has already been set to LBS or KG. If this is the case, ensure that the correct unit is set before you enter a weight; otherwise the weight you entered will change when you update the weight unit and you will need to update the weight once again.
 
 Also note that the form will ‘remember’ your last applicable weight unit conversion. For example, if you enter 100 KG and change KG to NA and go back to KG, the weight will not change. However if you enter 100 KG change KG to NA, and then NA to LBS, it will convert 100 to 220.
+
+## Weight Units
+
+A weight unit corresponds to the unit of measure associated with the weight property of a movement. These are the following possible weight units:
+
+- **NA**: NA corresponds to a blank or zero weight value for movements done without external weight.
+- **LBS**: LBS corresponds to pounds; a common unit of measure for weight.
+- **KG**: KG corresponds to kilograms; a common unit of measure for weight.
+- **Percent of Max**: Percent of Max refers to the percentage of your current theoretical or actual max weight performed for the corresponding movement.
+- **Percent of Training Max**: Percent of Training Max refers to the percentage of your current training max weight for the corresponding movement.
+  - Your ‘training max’ value would most likely, but not necessarily, differ from your ‘max’.
+- **Percent Effort**: Percent Effort refers to your perceived level of effort for the corresponding movement.
+
+## Volume Units
+
+A volume unit corresponds to the unit of measure associated with the volume property of a movement. These are the following possible volume units:
+
+- **Reps**: Reps is short for repetitions. A repetition is performing the act of the corresponding movement.
+  - E.g. 10 push-up reps would be 10 push-ups, 1 rep would be one push-up, and 0 push-up reps would correspond to the maximum number of push-up reps achievable given some external constraint.
+- **Calories**: Calories represent a unit of measure popular on cardio style machines such as rowing machines, exercise bikes, and treadmills.
+- **Meters**: Meters represent a distance of measure most often used with movements such as run, row, bike, and swim.
+- **Miles**: Miles represent a distance of measure most often used with movements such as run and bike.
+- **Time**: Time represents a length of time associated with the movement and is most often used with movements such as L-sits.
+  - Time does not specify a specific unit, but seconds is the assumed unit of measure. Individual users can assume a different unit and make note of it however they see fit.
 
 {% include links.html %}
