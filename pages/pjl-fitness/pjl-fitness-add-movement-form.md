@@ -11,6 +11,8 @@ The movement is the fundamental building block of any workout. All workouts must
 
 ## Properties
 
+![Image of Add Movement Form](images/pjl-fitness-add-movement-form.png)
+
 The Add Movement Form is a single form capable of capturing the majority of all possible workout movements. The Add Movement Form consists of the following properties:
 
 - **Movement Name**: The name associated with the movement.
