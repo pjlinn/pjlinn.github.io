@@ -15,6 +15,8 @@ A ‘standard’ workout is the simplest possible workout structure because a st
 
 ### Properties
 
+![Image of Standard Workout](images/pjl-fitness-standard-workout.png)
+
 - **Movements**: A standard workout is made up of one or many movements.
   - This field can be left blank although it would not make sense for a workout to have zero movements.
   - Click [here](pjl-fitness-add-movement-form) for more information about the Add Movement Form
@@ -42,6 +44,8 @@ There are a number of benefits associated with this style of workout, but a disc
 
 ### Properties
 
+![Image of Interval Workout](images/pjl-fitness-interval-workout.png)
+
 - **Rounds**: The number of rounds, or times through the collection of intervals, in the workout.
   - This field is blank by default, and can be left blank although it would not make sense to do so.
 - **Intervals**: An interval workout is made up of one or many intervals.
@@ -64,6 +68,8 @@ EMOM stands for Every Minute on the Minute and is a type of interval workout whe
 There are a number of benefits associated with this style of workout, but a discussion of those benefits is beyond the scope of this page. Interested readers can check out [this article](https://boxlifemagazine.com/benefits-of-the-emom-every-minute-on-the-minute-workout/#:~:text=EMOM%20(which%20stands%20for%20every,What%20are%20the%20benefits%3F), or other such articles by Googling EMOM.
 
 ### Properties
+
+![Image of EMOM Workout](images/pjl-fitness-emom-workout.png)
 
 - **Rounds**: The number of rounds, or times through the collection of movements, in your workout
   - This field is blank by default, and can be left blank although it would not make sense to do so.
@@ -93,6 +99,8 @@ There are a number of benefits associated with this style of workout, but a disc
 
 ### Properties
 
+![Image of AMRAP Workout](images/pjl-fitness-amrap-workout.png)
+
 - **Time Cap**: The time limit on the workout. The time input is a special type of input that accepts a number of different time formats that are explained [here](pjl-fitness-special-form-inputs.html#the-time-input).
   - This field is blank by default, and can be left blank although it would not make sense to do so.
 - **Movements**: An AMRAP workout is made up of one or many movements.
@@ -115,6 +123,8 @@ There are a number of benefits associated with this style of workout, but a disc
 There are a number of benefits associated with this style of workout, but a discussion of those benefits is beyond the scope of this page. Interested readers can Google ‘For Time Workouts’.
 
 ### Properties
+
+![Image of For Time Workout](images/pjl-fitness-for-time-workout.png)
 
 - **Rounds**: The number of rounds, or times through the collection of movements, in the workout.
   - This field is blank by default, and can be left blank although it would not make sense to do so.
