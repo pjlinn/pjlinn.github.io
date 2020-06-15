@@ -19,6 +19,8 @@ The Add Workout Form has three parts:
 
 ### Workout Info
 
+![Image of Add Workout Info](images/pjl-fitness-add-workout-info.png)
+
 The workout info consists of the following top-level meta-data about a particular workout:
 
 - **Workout Name**:

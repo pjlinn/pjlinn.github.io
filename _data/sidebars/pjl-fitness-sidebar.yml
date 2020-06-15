@@ -59,6 +59,9 @@ entries:
           - title: Workout Description
             url: /pjl-fitness-workout-description.html
             output: web, pdf
+          - title: How-To Videos
+            url: /pjl-fitness-workout-how-to-videos.html
+            output: web, pdf
 
       - title: Metrics
         output: web, pdf
