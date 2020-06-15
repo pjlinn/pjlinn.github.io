@@ -9,7 +9,9 @@ folder: pjl-fitness
 
 ## The Time Input
 
-Time is both one of the most common properties associated with workout, intervals, and movements, and one of the most variable. At PJL we wanted to give users the flexibility to add different time values in the leanest way possible. As a result, we designed a ‘smart’ time input that supports a number of different time formats.
+![Image of Custom Time Input](images/pjl-fitness-time-text-input.png)
+
+Time is both one of the most common properties associated with a workout, interval, and movement, as well as one of the most variable. At PJL we wanted to give users the flexibility to add different time values in the leanest way possible. As a result, we designed a ‘smart’ time input that supports a number of different time formats.
 
 ### Supported Time Formats
 
