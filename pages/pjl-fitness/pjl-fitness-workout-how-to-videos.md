@@ -21,4 +21,6 @@ folder: pjl-fitness
 
 [1 Mile run](https://youtu.be/wcjbD1dilAg)
 
+[2000 meter row](https://youtu.be/OV-lVMT31Bk)
+
 {% include links.html %}
