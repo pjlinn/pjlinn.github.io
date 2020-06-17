@@ -30,6 +30,9 @@ entries:
           - title: Creating An Account
             url: /pjl-fitness-create-an-account.html
             output: web
+          - title: New User Tutorials
+            url: /pjl-fitness-new-user-tutorials.html
+            output: web
 
       - title: Forms
         output: web, pdf
