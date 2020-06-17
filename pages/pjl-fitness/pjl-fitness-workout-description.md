@@ -9,6 +9,8 @@ folder: pjl-fitness
 
 ## Workout Description
 
+![Image of Auto Workout Description](images/pjl-fitness-workout-description-auto.png)
+
 The ‘Workout Description’ is your workout written out in words and how a workout is represented throughout the application. This page describes the different parts of the workout description.
 
 ### Workout Description Components
