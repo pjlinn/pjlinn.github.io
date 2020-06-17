@@ -61,12 +61,16 @@ To access the workout structure part of the Add Workout Form, click the ‘Progr
 
 The workout description is your workout written out in words and, more importantly, is how the workout is represented in the application outside of the Add Workout Form. Check out the [workout description page](pjl-fitness-workout-description) for more information.
 
-1. Automatic (beta)
+**Automatic (beta)**
+
+![Image of Auto Workout Description](images/pjl-fitness-workout-description-auto.png)
 
 - The Add Workout Form has beta functionality that will automatically define a workout structure based on the intervals and movements entered.
 - The intention of this feature is to save the user time by creating either an adequate workout structure that can be used as-is, or the start of a workout structure that can be used as a jumping off point.
 
-2. Manual
+**Manual**
+
+![Image of Manual Workout Description](images/pjl-fitness-workout-description-manual.png)
 
 - Users can manually enter a workout structure by clicking the ‘Write Your Own’ button and entering the workout structure of their choosing.
 
