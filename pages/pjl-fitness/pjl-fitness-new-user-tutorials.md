@@ -22,7 +22,7 @@ All users will need to add some form of workout to get the most out of PJL Fitne
 
 - [Traditional Weightlifter (e.g. reps and sets)](pjl-fitness-new-user-tutorials.html#traditional-weightlifter)
 - [Cardio (e.g. Running, Walking, Swimming, Rowing)](pjl-fitness-new-user-tutorials.html#cardio)
-- [CrossFitter]()
+- [CrossFitter](pjl-fitness-new-user-tutorials.html#crossfitter)
 - [Class-Based]()
 - [High-Intensity Interval Training (HIIT)]()
 - [Olympic Lifter]()
@@ -75,6 +75,32 @@ The standard workout structure models a typical cardio workout in the following 
 
 **Tutorials**
 
-- [Adding standard workout how-to videos](http://localhost:4000/pjl-fitness-workout-how-to-videos.html#standard)
+- [Adding standard workout how-to videos](pjl-fitness-workout-how-to-videos.html#standard)
+
+## CrossFitter
+
+**Who**: CrossFit athletes follow the CrossFit style of workouts, which consist of constantly varied, high-intensity, functional movements.
+
+**How to Use PJL Fitness**: CrossFit athletes will feel right at home with PJL Fitness because PJL was originally designed as a workout journal capable of tracking CrossFit workouts. Many of the [workout structures](pjl-fitness-workout-structures) come directly from the most popular CrossFit workout styles. Therefore, a typical CrossFitter would make use out of each of the supported workout structures. E.g.
+
+- [Standard](pjl-fitness-workout-structures.html#the-standard-workout-workout-structure)
+- [EMOM](pjl-fitness-workout-structures.html#the-emom-workout-workout-structure)
+- [AMRAP](pjl-fitness-workout-structures.html#the-amrap-workout-workout-structure)
+- [For Time](pjl-fitness-workout-structures.html#the-for-time-workout-workout-structure)
+- [Interval](pjl-fitness-workout-structures.html#the-interval-workout-workout-structure)
+
+Each workout structure is fundamentally made up of either [movements](pjl-fitness-add-movement-form) or [intervals](pjl-fitness-add-interval-form) with a few other properties sprinkled in. PJL Fitness can easily capture at least 80% of CrossFit workouts. For the more complicated workout structures, we encourage users to add the movements and weights, and then manually modify [the workout description](pjl-fitness-workout-description) to convey exactly how the workout is structured.
+
+**Tutorials**
+
+- [Adding Standard Workout How-to Videos](pjl-fitness-workout-how-to-videos.html#standard)
+
+- [Adding EMOM Workout How-to Videos](pjl-fitness-workout-how-to-videos.html#emom-every-minute-on-the-minute)
+
+- [Adding AMRAP Workout How-to Videos](pjl-fitness-workout-how-to-videos.html#amrap-as-many-reps-as-possible)
+
+- [Adding For Time Workout How-to Videos](pjl-fitness-workout-how-to-videos.html#for-time)
+
+- [Adding Interval Workout How-to Videos](pjl-fitness-workout-how-to-videos.html#interval)
 
 {% include links.html %}

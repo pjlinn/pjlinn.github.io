@@ -19,8 +19,38 @@ folder: pjl-fitness
 
 #### Conditioning
 
-[1 Mile run](https://youtu.be/wcjbD1dilAg)
+[1 Mile Run](https://youtu.be/wcjbD1dilAg)
 
 [2000 meter row](https://youtu.be/OV-lVMT31Bk)
+
+### EMOM (Every Minute on the Minute)
+
+#### Strength
+
+[Olympic Lift: Snatch Variation](https://youtu.be/O0bH_KXOfIM)
+
+#### Skill
+
+[Pull-Up Practice](https://youtu.be/VxyxiPUnEY0)
+
+### AMRAP (As Many Reps As Possible)
+
+#### Conditioning
+
+[‘Cindy’](https://youtu.be/KMcTNmkIQeU)
+
+[‘Max Burpees’](https://youtu.be/gpJhx-WG4oo)
+
+### For Time
+
+#### Conditioning
+
+[‘Murph’ Challenge](https://youtu.be/V8EuKDKcz9A)
+
+### Interval
+
+#### Conditioning
+
+[‘Emily’](https://youtu.be/-WXdOCiTqIo)
 
 {% include links.html %}
