@@ -2,6 +2,7 @@
 title: The Add Workout Form
 keywords: pjl-fitness
 # summary: "This is just a sample topic..."
+tags: [pjl-fitness]
 sidebar: pjl-fitness-sidebar
 permalink: pjl-fitness-add-workout-form.html
 folder: pjl-fitness

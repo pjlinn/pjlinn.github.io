@@ -3,6 +3,7 @@ title: Workout Structures
 keywords: pjl-fitness
 # summary: "This is just a sample topic..."
 sidebar: pjl-fitness-sidebar
+tags: [pjl-fitness]
 permalink: pjl-fitness-workout-structures.html
 folder: pjl-fitness
 ---

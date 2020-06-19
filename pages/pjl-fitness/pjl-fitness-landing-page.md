@@ -3,6 +3,7 @@ title: PJL Fitness
 keywords: pjl-fitness
 # summary: ''
 sidebar: pjl-fitness-sidebar
+tags: [pjl-fitness]
 permalink: pjl-fitness-landing-page.html
 folder: pjl-fitness
 toc: true

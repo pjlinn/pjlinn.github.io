@@ -3,6 +3,7 @@ title: Header Controls
 keywords: pjl-fitness
 # summary: "This is just a sample topic..."
 sidebar: pjl-fitness-sidebar
+tags: [pjl-fitness]
 permalink: pjl-fitness-header-controls.html
 folder: pjl-fitness
 ---

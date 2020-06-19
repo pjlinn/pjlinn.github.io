@@ -2,6 +2,7 @@
 title: Add Movement Form
 keywords: pjl-fitness
 # summary: 'This is just a sample topic...'
+tags: [pjl-fitness]
 sidebar: pjl-fitness-sidebar
 permalink: pjl-fitness-add-movement-form.html
 folder: pjl-fitness
