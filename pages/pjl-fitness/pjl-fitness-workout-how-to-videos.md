@@ -2,6 +2,7 @@
 title: Workout How-To Videos
 keywords: pjl-fitness
 # summary: "This is just a sample topic..."
+tags: [pjl-fitness]
 sidebar: pjl-fitness-sidebar
 permalink: pjl-fitness-workout-how-to-videos.html
 folder: pjl-fitness
@@ -21,7 +22,11 @@ folder: pjl-fitness
 
 [1 Mile Run](https://youtu.be/wcjbD1dilAg)
 
-[2000 meter row](https://youtu.be/OV-lVMT31Bk)
+[2000 Meter Row](https://youtu.be/OV-lVMT31Bk)
+
+#### Mobility
+
+[30-Minute Yoga Class](https://youtu.be/5BtocX0fErs)
 
 ### EMOM (Every Minute on the Minute)
 
