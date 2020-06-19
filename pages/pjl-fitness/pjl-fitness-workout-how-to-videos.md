@@ -18,11 +18,15 @@ folder: pjl-fitness
 
 [5x 5 Bench Press](https://youtu.be/qnoI8HZO6_s)
 
+[Back Squat with Variable Reps per Set](https://youtu.be/26MnIvhnELk)
+
 #### Conditioning
 
 [1 Mile Run](https://youtu.be/wcjbD1dilAg)
 
 [2000 Meter Row](https://youtu.be/OV-lVMT31Bk)
+
+[Custom Workout (Workout Description Only)](https://youtu.be/q52ysnTmSuE)
 
 #### Mobility
 
@@ -57,5 +61,7 @@ folder: pjl-fitness
 #### Conditioning
 
 [‘Emily’](https://youtu.be/-WXdOCiTqIo)
+
+[HIIT Rowing TABATA](https://youtu.be/qGnvPlheU3Q)
 
 {% include links.html %}

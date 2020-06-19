@@ -25,11 +25,11 @@ All users will need to add some form of workout to get the most out of PJL Fitne
 - [Cardio (e.g. Running, Walking, Swimming, Rowing)](pjl-fitness-new-user-tutorials.html#cardio)
 - [CrossFitter](pjl-fitness-new-user-tutorials.html#crossfitter)
 - [Class-Based](pjl-fitness-new-user-tutorials.html#class-based)
-- [High-Intensity Interval Training (HIIT)]()
-- [Olympic Lifter]()
-- [Powerlifter]()
-- [Body Builder]()
-- [Other]()
+- [High-Intensity Interval Training (HIIT)](pjl-fitness-new-user-tutorials.html#high-intensity-interval-training)
+- [Olympic Lifter](pjl-fitness-new-user-tutorials.html#olympic-lifter)
+- [Powerlifter](pjl-fitness-new-user-tutorials.html#powerlifter)
+- [Bodybuilder](pjl-fitness-new-user-tutorials.html#bodybuilder)
+- [Other](pjl-fitness-new-user-tutorials.html#other)
 
 ## Traditional Weightlifter
 
@@ -113,6 +113,68 @@ Each workout structure is fundamentally made up of either [movements](pjl-fitnes
 PJL suggests that users log the type of class as the workout name and list some of the movements performed during the class and any weights used. Recording the movements will help track muscle groups being worked and weights will help you benchmark for future classes.
 
 The [workout description](pjl-fitness-add-workout-form.html#workout-description) can be modified to note the instructor, class time, or any other information regarding the particular class.
+
+**Tutorials**
+
+- [Adding standard workout how-to videos](pjl-fitness-workout-how-to-videos.html#standard)
+
+## High-Intensity Interval Training
+
+**Who**: High-Intensity Interval Training (HIIT) is a form of interval training that mixes periods of intense exercise with periods of rest.
+
+**How to Use PJL Fitness**: PJL Fitness was built with native support for interval style workouts, and has a workout structure specific to [interval](pjl-fitness-workout-structures.html#the-interval-workout-workout-structure) workouts. The interval workout structure allows users to quickly and easily model any interval-style workout they choose.
+
+**Tutorials**
+
+- [Adding Interval Workout How-to Videos](pjl-fitness-workout-how-to-videos.html#interval)
+
+## Olympic Lifter
+
+**Who**: Athletes who specialize in the two olympic lifts: the snatch and clean and jerk.
+
+**How to Use PJL Fitness**: Most olympic lifting workouts would fit naturally into the [‘standard’](pjl-fitness-workout-structures#the-standard-workout-workout-structure) workout structure.
+
+The standard workout structure models a typical olympic lifter workout in the following way:
+
+- **Movement**: The movement is defined by the user as part of the [‘Add Movement Form’](pjl-fitness-add-movement-form). A user is free to distinguish between exercises and lifts however they choose. Olympic lifters who utilize ‘complexes’ (i.e. compound movements) can make use of the [movement grouping](pjl-fitness-add-movement-form.html#movement-grouping) feature.
+
+**Tutorials**
+
+- [Adding standard workout how-to videos](pjl-fitness-workout-how-to-videos.html#standard)
+
+## Powerlifter
+
+**Who**: Athletes who specialize in the three lifts: squat, bench press, and deadlift.
+
+**How to Use PJL Fitness**: Most powerlifting workouts would fit naturally into the [‘standard’](pjl-fitness-workout-structures#the-standard-workout-workout-structure) workout structure.
+
+The standard workout structure models a typical powerlifting workout in the following way:
+
+- **Movement**: The movement is defined by the user as part of the [‘Add Movement Form’](pjl-fitness-add-movement-form). A user is free to distinguish between exercises and lifts however they choose. Powerlifters who utilize supersets (i.e. compound movements) can make use of the [movement grouping](pjl-fitness-add-movement-form.html#movement-grouping) feature.
+
+**Tutorials**
+
+- [Adding standard workout how-to videos](pjl-fitness-workout-how-to-videos.html#standard)
+
+## Bodybuilder
+
+**Who**: A bodybuilder utilizes resistance workouts to enhance their body for aesthetic purposes.
+
+**How to Use PJL Fitness**: Most bodybuilding workouts would fit naturally into the [‘standard’](pjl-fitness-workout-structures#the-standard-workout-workout-structure) workout structure.
+
+The standard workout structure models a typical bodybuilding workout in the following way:
+
+- **Movement**: The movement is defined by the user as part of the [‘Add Movement Form’](pjl-fitness-add-movement-form). A user is free to distinguish between exercises and lifts however they choose. Bodybuilders who modify exercises through different timings can make note of these specifics by modifying the [workout description](pjl-fitness-add-workout-form.html#workout-description).
+
+**Tutorials**
+
+- [Adding standard workout how-to videos](pjl-fitness-workout-how-to-videos.html#standard)
+
+## Other
+
+**Who**: The list of athletes provided here hardly covers every possibility. PJL is hopeful that it gives an idea of how many different fitness domains can be tracked using our application and how to start doing so.
+
+**How to Use PJL Fitness**: The simplest way to log a workout is to create a workout with a name, date, and workout description. This is enough for you to see what and when you performed a workout. The effects of having this information stored can not be overstated.
 
 **Tutorials**
 
