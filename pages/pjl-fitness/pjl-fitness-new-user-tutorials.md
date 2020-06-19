@@ -2,6 +2,7 @@
 title: New User Tutorials
 keywords: pjl-fitness
 summary: 'This section is intended to help new or prospective users get an idea of how PJL Fitness can be utilized to help track their individual fitness.'
+tags: [pjl-fitness]
 sidebar: pjl-fitness-sidebar
 permalink: pjl-fitness-new-user-tutorials.html
 folder: pjl-fitness
@@ -23,7 +24,7 @@ All users will need to add some form of workout to get the most out of PJL Fitne
 - [Traditional Weightlifter (e.g. reps and sets)](pjl-fitness-new-user-tutorials.html#traditional-weightlifter)
 - [Cardio (e.g. Running, Walking, Swimming, Rowing)](pjl-fitness-new-user-tutorials.html#cardio)
 - [CrossFitter](pjl-fitness-new-user-tutorials.html#crossfitter)
-- [Class-Based]()
+- [Class-Based](pjl-fitness-new-user-tutorials.html#class-based)
 - [High-Intensity Interval Training (HIIT)]()
 - [Olympic Lifter]()
 - [Powerlifter]()
@@ -102,5 +103,19 @@ Each workout structure is fundamentally made up of either [movements](pjl-fitnes
 - [Adding For Time Workout How-to Videos](pjl-fitness-workout-how-to-videos.html#for-time)
 
 - [Adding Interval Workout How-to Videos](pjl-fitness-workout-how-to-videos.html#interval)
+
+## Class-Based
+
+**Who**: Class-based athletes do most of their workouts in a class setting. Rather than track the exact workout done during the class, PJL recommends tracking class attendance, movements performed, and any other meta-data about the class a user feels is worth recording.
+
+**How to Use PJL Fitness**: There is no native support for a ‘class’ workout structure, however the [‘standard’](pjl-fitness-workout-structures#the-standard-workout-workout-structure) workout structure can be repurposed to track and provide credit for classes.
+
+PJL suggests that users log the type of class as the workout name and list some of the movements performed during the class and any weights used. Recording the movements will help track muscle groups being worked and weights will help you benchmark for future classes.
+
+The [workout description](pjl-fitness-add-workout-form.html#workout-description) can be modified to note the instructor, class time, or any other information regarding the particular class.
+
+**Tutorials**
+
+- [Adding standard workout how-to videos](pjl-fitness-workout-how-to-videos.html#standard)
 
 {% include links.html %}
