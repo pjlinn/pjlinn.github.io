@@ -3,6 +3,7 @@ title: Creating an Account
 keywords: pjl-fitness
 summary: 'PJL Fitness is currently in a closed-beta and new users will require a valid beta-key to register. This is temporary.'
 sidebar: pjl-fitness-sidebar
+tags: [pjl-fitness]
 permalink: pjl-fitness-create-an-account.html
 folder: pjl-fitness
 toc: true

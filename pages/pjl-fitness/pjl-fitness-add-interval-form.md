@@ -2,6 +2,7 @@
 title: The Add Interval Form
 keywords: pjl-fitness
 # summary: "This is just a sample topic..."
+tags: [pjl-fitness]
 sidebar: pjl-fitness-sidebar
 permalink: pjl-fitness-add-interval-form.html
 folder: pjl-fitness

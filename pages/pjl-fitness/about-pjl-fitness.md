@@ -2,6 +2,7 @@
 title: About PJL Fitness
 keywords: pjl-fitness
 # summary: 'This is just a sample topic...'
+tags: [pjl-fitness]
 sidebar: pjl-fitness-sidebar
 permalink: about-pjl-fitness.html
 folder: pjl-fitness

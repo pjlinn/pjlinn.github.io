@@ -2,6 +2,7 @@
 title: Special Form Inputs
 keywords: pjl-fitness
 # summary: "This is just a sample topic..."
+tags: [pjl-fitness]
 sidebar: pjl-fitness-sidebar
 permalink: pjl-fitness-special-form-inputs.html
 folder: pjl-fitness
