@@ -21,4 +21,6 @@ PJL Fitness is currently in a closed-beta, thus new users will require a valid b
 
 - Requesting a beta-key through the ‘Request an Account’ form on the bottom-right of the [PJL Fitness website.](https://fitness.pjlindustries.com/#).
 
+- Or by reading this far (you can use the beta-key [read-the-docs](https://fitness.pjlindustries.com/#/register/read-the-docs) to create an account)
+
 {% include links.html %}
