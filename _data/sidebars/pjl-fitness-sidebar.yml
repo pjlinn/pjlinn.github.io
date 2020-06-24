@@ -66,11 +66,11 @@ entries:
             url: /pjl-fitness-workout-how-to-videos.html
             output: web, pdf
 
-      - title: Metrics
+      - title: Dashboard
         output: web, pdf
         folderitems:
-          - title: Metrics
-            url: /pjl-fitness-metrics.html
+          - title: Dashboard Visualizations Overview
+            url: /pjl-fitness-dashboard-landing-page.html
             output: web, pdf
 
       - title: Snapshots

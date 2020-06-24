@@ -12,6 +12,10 @@ folder: pjl-fitness
 
 ### Standard
 
+#### Adding Workout Without Movements
+
+[Copy and Pasting an External Workout into Your Journal](https://youtu.be/Zsdhcv_9kRo)
+
 #### Strength
 
 <!-- [![Add a new Standard Strength Workout](https://img.youtube.com/vi/qnoI8HZO6_s/0.jpg)](https://www.youtube.com/watch?v=qnoI8HZO6_s) -->
