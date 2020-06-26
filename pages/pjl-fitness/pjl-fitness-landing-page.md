@@ -45,7 +45,7 @@ In general, the PJL Fitness Journal offers the following:
 
 - **Support Across Devices** - You are not dependent on your phone. The application runs on all modern browsers, which means you can view and edit your journal from any device at any time.
 
-- **Support Across Fitness Domains** - It doesn’t matter what type of training you’re doing. The application can track workouts for runners, CrossFiters, powerlifters, bodybuilders, olympic lifters, you name it!
+- **Support Across Fitness Domains** - It doesn’t matter what type of training you’re doing. The application can track workouts for runners, CrossFitters, powerlifters, bodybuilders, olympic lifters, you name it!
 
 - **Flexibility** - You can provide as little or as much detail about your workouts as you’d like. The more detail you provide, the better the analytics, but there is no requirement to add more than a workout name and date.
 
