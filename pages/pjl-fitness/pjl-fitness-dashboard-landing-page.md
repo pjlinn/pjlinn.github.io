@@ -13,6 +13,8 @@ toc: true
 
 [PJL Fitness Dashboard Overview Video](https://youtu.be/WWqomVfRdx8)
 
+[PJL Fitness Dashboard Demo and Walkthrough](https://www.youtube.com/watch?v=OTqsgbaaAwM&t=378s)
+
 Every PJL Fitness user has access to a fitness dashboard that automatically compiles metrics when [workouts](pjl-fitness-add-workout-form) and [movements](pjl-fitness-add-movement-form) are added to your fitness journal. As part of the beta-release, PJL has created visualizations for the most commonly asked questions, and we will continue adding new metrics and functionality as PJL Fitness matures. This page describes the metrics, features, and behaviors associated with the user dashboard.
 
 ### Access
