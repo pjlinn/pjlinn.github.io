@@ -84,7 +84,7 @@ entries:
         output: web, pdf
         folderitems:
           - title: FAQ
-            url: /pjl-fitness-closed-beta-release-notes.html
+            url: /pjl-fitness-frequently-asked-questions.html
             output: web, pdf
 
       - title: Release Notes
