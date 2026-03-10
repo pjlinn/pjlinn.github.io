@@ -22,8 +22,7 @@ title: Linnehan Live
 email: peter.linnehan@pjlindustries.com
 description: >- # this means to ignore newlines until "baseurl:"
   Going live in written format.
-baseurl: '/blog' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://pjlinn.github.io'
 twitter_username: peterlinnehan
 github_username: pjlinn
 
