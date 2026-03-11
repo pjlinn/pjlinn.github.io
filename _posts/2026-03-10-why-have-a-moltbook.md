@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Going Live'
+title: 'Meta Acquires Moltbook'
 date: 2026-03-10
 categories: ai
 ---
