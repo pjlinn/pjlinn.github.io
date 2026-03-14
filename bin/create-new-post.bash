@@ -11,6 +11,8 @@ SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 POSTS_DIR="${SCRIPT_DIR}/../_posts"
 CATEGORIES=""
 
+SCRIPT_NAME="$(basename "$0")"
+
 usage() {
     cat <<EOF
 Usage: $SCRIPT_NAME [OPTIONS]
