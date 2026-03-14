@@ -2,7 +2,7 @@
 layout: post
 title: 'Thoughts on Gold'
 date: 2026-03-13 113704 -0400
-categories: investing, money
+categories: investing
 ---
 
 Gold has ripped over the past year. Explanations vary, but the returns have been undeniable. I like, and own, gold as a long-term store of value asset, but it's important to remember its limitations during sudden downturns. I had clipped this WSJ quote from an [article](https://www.wsj.com/articles/wall-street-prepares-for-another-unruly-week-11583074802?gaa_at=eafs&gaa_n=AWEtsqcxnpU7hNm045K3CJJh7dBW5OGDAE_Yv4n9LKA5PYHOCDk9-xiEtxgdkPBfAKI%3D&gaa_ts=69b434a4&gaa_sig=0UAlb9PDOrs0TaRfDpo20jP9jPlQWT62jNCFgYw-aH2xND3rmEwhYvSdHnRNfUAdldvZSK4QVBTahlj1S4dQZQ%3D%3D) published 6-years ago during the Covid crash (emphasis mine):
