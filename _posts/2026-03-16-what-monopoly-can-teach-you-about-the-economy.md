@@ -7,17 +7,15 @@ categories: [money]
 
 You can learn a lot about the economy by playing Monopoly and tinkering with the standard rules.
 
-#### "Raising the Minimum Wage" + "Price Controls"
+To simulate the effects of artificially increasing the minimum wage for example, adjust the rules of Monopoly and increase the amount each player gets when they pass "Go" while leaving all other numbers the same. Increase to $300, $500, $1000, and $2000. You'll find that the game fundamentally changes. It improves at first with $300 enabling more purchases and faster building. But as you continue increasing, the game starts to drag. In fact, there is a point where the game will never end because players have so much money they will never go bankrupt. To compensate, you'd have to increase the property, building, and penalty prices proportionally.
 
-Raising the minimum wage to increase affordability is one of the most common economic fallacies. The economy is a dynamic system. If you increase the minimum wage, the economy adjusts; and what you'll find is that prices are set based on the minimum wage, and the amount of money in the system more broadly.
-
-To demonstrate, adjust the rules of Monopoly and increase the amount each player gets when they pass go while leaving all other costs the same. Increase to $300, $500, $1000, and $2000. You'll find that the game fundamentally changes. It improves at first with $300 enabling more purchases and faster building. But as you continue increasing, the game starts to drag. In fact, there is a point where the game will never end because players have so much money they will never go bankrupt. To compensate, you must increase the property and building prices proportionally.
-
-This proportional increase is exactly why raising the minimum wage doesn't make things more affordable. Prices move to compensate with the new wage. Don't believe me? Compare prices across countries for equivalent goods. From Grok:
+This proportional increase is _exactly_ why simply raising the minimum wage doesn't make things more affordable. Prices move to compensate with the new wage. You can see it by comparing prices across countries for equivalent goods. From Grok:
 
 > As of March 2026, Australia's national minimum wage is **$24.95** per hour and the cheapest 6-pack of beer is **$18–$22**
 
 > As of March 2026 in Virginia, the state minimum wage is **$12.77** per hour. A 6-pack typically ranges from **$8 to $12**
+
+Raising the minimum wage doesn't make beer more affordable. Instead, the cheapest 6-pack of beer will always cost the equivalent of one hour of minimum wage work.
 
 <br>
 
